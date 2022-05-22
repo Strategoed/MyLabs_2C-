@@ -1,0 +1,10 @@
+12	#pragma once
+19	#include <iostream>
+18	#include <fstream>
+17	#include <string>
+20	#include <windows.h>
+20	using namespace std;
+0	
+30	void CreateFFile(string path);
+45	void CreateSFile(string path1, string path2);
+29	void OutputFile(string path);
